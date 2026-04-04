@@ -84,6 +84,14 @@ http://localhost:8080/OnlineExamSystem/
 ```
 
 ---
+🎯 What actually matters for running
+
+To clone repo, you mainly need:
+
+✔ src/main/java
+✔ src/main/webapp
+✔ WEB-INF/web.xml
+✔ Database setup
 
 ## ⚠️ Important Notes
 
