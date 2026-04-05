@@ -1,6 +1,6 @@
 # Online Exam System
 
-## 📌 Description
+## 📌 Description:
 
 This is a Java-based Online Exam System built using Servlets and JSP.
 It allows users to take exams and view results.
