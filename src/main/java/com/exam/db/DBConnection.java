@@ -9,8 +9,8 @@ public class DBConnection {
             Class.forName("oracle.jdbc.driver.OracleDriver");
             con = DriverManager.getConnection(
                 "jdbc:oracle:thin:@localhost:1521:xe",
-                "system",
-                "root"
+                "username",
+                "password"
             );
         } catch(Exception e) {
             e.printStackTrace();
