@@ -5,7 +5,6 @@
 This is a Java-based Online Exam System built using Servlets and JSP.
 It allows users to take exams and view results.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -14,7 +13,6 @@ It allows users to take exams and view results.
 * Oracle Database
 * Apache Tomcat Server
 
----
 
 ## ⚙️ Requirements
 
@@ -25,7 +23,6 @@ Make sure you have:
 * Apache Tomcat Server
 * Oracle Database (XE)
 
----
 
 ## 🚀 How to Run the Project
 
@@ -42,14 +39,11 @@ git clone https://github.com/akhilar97-raw/OnlineExamSystem.git
 * Select "Existing Projects into Workspace"
 * Choose the project folder
 
----
-
 ### Step 3: Configure Apache Tomcat
 
 * Add Tomcat Server in Eclipse
 * Right click project → Run on Server
 
----
 
 ### Step 4: Setup Database
 
@@ -57,7 +51,6 @@ git clone https://github.com/akhilar97-raw/OnlineExamSystem.git
 * Create database tables (questions table required)
 * Insert sample data
 
----
 
 ### Step 5: Update DB Connection
 
@@ -73,7 +66,6 @@ Update:
 * Password
 * Database URL
 
----
 
 ### Step 6: Run Project
 
@@ -83,7 +75,6 @@ Open browser:
 http://localhost:8080/OnlineExamSystem/
 ```
 
----
 🎯 What actually matters for running
 
 To clone repo, you mainly need:
@@ -99,7 +90,6 @@ To clone repo, you mainly need:
 * Ensure ojdbc jar is added to build path
 * If questions are not visible, check database connection
 
----
 
 ## 👩‍💻 Author
 
